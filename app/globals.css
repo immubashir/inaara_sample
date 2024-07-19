@@ -1,0 +1,51 @@
+@import url("https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@100,200,300,400,500,700,800,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  body{
+    @apply text-black bg-[#f5f7f8]
+  }
+}
+
+
+/* Cabinet Font */
+.cabinet-thin {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 100;
+}
+.cabinet-extralight {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 200;
+}
+.cabinet-light {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 300;
+}
+.cabinet-regular {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 400;
+}
+.cabinet-medium {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 500;
+}
+.cabinet-semibold {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 600;
+}
+.cabinet-bold {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 700;
+}
+.cabinet-extrabold {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 800;
+}
+
+.cabinet-black {
+  font-family: 'Cabinet Grotesk', sans-serif;
+  font-weight: 900;
+}
