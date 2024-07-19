@@ -31,7 +31,7 @@ const Hero = () => {
     <div className='pt-20 px-20'>
       <div className='flex'>
         <div className='w-full h-full flex flex-col'>
-          <h1 className='cabinet-extrabold text-6xl'>Skyrocket your brand's true potential</h1>
+          <h1 className='cabinet-extrabold text-6xl'>Skyrocket your brand&apos;s true potential</h1>
           <h2 className='text-2xl cabinet-medium text-gray-500'>We at Inaara.ai help you identify and skyrocket your brand's digital identity</h2>
           <div className='flex gap-10 mt-8 items-center z-20'>
             <button className='px-4 py-2 border-black border-2 transition-all duration-500 hover:border-[#359ae7] rounded-full group relative flex items-center justify-center overflow-hidden'>

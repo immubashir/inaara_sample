@@ -5,8 +5,8 @@ const Projects = () => {
   return (
     <div className='h-[140vh] px-20 relative'>
         <div>
-            <h1 className='mr-28 cabinet-extrabold text-6xl pt-20'>Designs that'll make your business standout from the crowd</h1>
-            <p className='text-2xl cabinet-medium text-gray-600'>We don't just design, we partner with you to achieve awsomeness!</p>
+            <h1 className='mr-28 cabinet-extrabold text-6xl pt-20'>Designs that will make your business standout from the crowd</h1>
+            <p className='text-2xl cabinet-medium text-gray-600'>We dont just design, we partner with you to achieve awsomeness!</p>
             <button className='px-2 py-[2px] rounded-full border-2 border-black flex gap-10 items-center justify-center relative overflow-hidden group mt-10'><h1 className='cabinet-bold text-xl group-hover:text-white transition-all duration-500'>View all projects</h1><h1 className='bg-black text-white rounded-full h-10 w-10 flex items-center justify-center text-2xl font-bold'>›</h1>
             <div className='absolute h-96 w-96 left-5 bg-black rounded-full scale-[0.1] group-hover:scale-[1.2] -z-10 transition-all duration-500'/>
             </button>
