@@ -24,7 +24,7 @@ const Projects = () => {
                     </button>
                 </div>
                 <div className='flex gap-10 p-8 rounded-xl border-slate-500 hover:bg-slate-500/10 transition-all duration-300 items-center group'>
-                    <Image src="/Dribbble_Divi_img.png" height={200} width={400} className='object-cover rounded-3xl absolute scale-[0.2] group-hover:scale-100 right-20 group-hover:translate-x-0 translate-x-12 transition-all duration-500'/>
+                    <Image src="/Dribbble_Divi_Img.png" height={200} width={400} className='object-cover rounded-3xl absolute scale-[0.2] group-hover:scale-100 right-20 group-hover:translate-x-0 translate-x-12 transition-all duration-500'/>
                     <div className='flex flex-col text-center'>
                         <h1 className='text-4xl font-semibold group-hover:font-black transition-all duration-500'>Divi Fertility Center</h1>
                         <div className='w-full h-[2px] bg-slate-600'/>
